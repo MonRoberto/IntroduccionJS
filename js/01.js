@@ -13,7 +13,7 @@ var producto1 = 'Computadora',
     categoria = 'Computadoras'; // Inicializar multiples variables
 
 //var 1-disponible; No es posible poner numeros ni guiones medio al principio
-var disponible_; // Si es posible gui bajo
+var disponible_; // Si es posible guion bajo
 
 //Estilos para las variables
 var nombre_producto = 'Monitor HD'; // Underscore
