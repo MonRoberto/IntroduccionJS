@@ -1,0 +1,24 @@
+{
+    "empleados" : [
+        {
+            "id" : 1,
+            "nombre" : "Mon",
+            "puesto" : "Programador Web"
+        },
+        {
+            "id" : 2,
+            "nombre" : "Pao",
+            "puesto" : "Tesoreria"
+        },
+        {
+            "id" : 3,
+            "nombre" : "Deijin",
+            "puesto" : "Chambea de flojerote"
+        },
+        {
+            "id" : 4,
+            "nombre" : "Sunsun",
+            "puesto" : "Chambea de flojerote"
+        }
+    ]
+}
